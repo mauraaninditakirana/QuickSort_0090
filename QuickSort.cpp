@@ -112,7 +112,7 @@ int main()
         system("pause");
         system("cls");
 
-    }while (true)
+    }while (true);
 
     return 0;
 }
